@@ -2,6 +2,8 @@
 
 A simple Bash script to compress and archive logs (or any directory/file) into a timestamped `.tar.gz` file.  
 Perfect for system administrators and DevOps engineers who need to quickly package logs for backup or sharing.
+This project is part of the roadmap.sh DevOps Projects.
+
 
 ---
 
